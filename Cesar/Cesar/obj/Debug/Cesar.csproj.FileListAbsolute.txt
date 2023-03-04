@@ -1,0 +1,7 @@
+C:\Users\Влад\source\repos\Cesar\Cesar\bin\Debug\Cesar.exe.config
+C:\Users\Влад\source\repos\Cesar\Cesar\bin\Debug\Cesar.exe
+C:\Users\Влад\source\repos\Cesar\Cesar\bin\Debug\Cesar.pdb
+C:\Users\Влад\source\repos\Cesar\Cesar\obj\Debug\Cesar.csprojAssemblyReference.cache
+C:\Users\Влад\source\repos\Cesar\Cesar\obj\Debug\Cesar.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\Cesar\Cesar\obj\Debug\Cesar.exe
+C:\Users\Влад\source\repos\Cesar\Cesar\obj\Debug\Cesar.pdb
